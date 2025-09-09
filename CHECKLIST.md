@@ -1,7 +1,7 @@
 Development Course Checklist
 
 Phase 0: Prerequisites
-- [ ] Setup: OS, Terminal, Git, IDE (Cursor)
+- [x] Setup: OS, Terminal, Git, IDE (Cursor)
 - [ ] Account logins ready (GitHub, Firebase optional)
 
 Phase 1: Programming Fundamentals
@@ -14,11 +14,11 @@ Phase 1: Programming Fundamentals
 - [ ] Design patterns basics (Factory, Observer, Singleton)
 
 Phase 2: Tools & Workflow
-- [ ] Terminal: navigation, files, permissions, shell rc
-- [ ] Package managers (system, language, local)
-- [ ] Git: init/clone/commit/push/remotes
-- [ ] Git hygiene: README, .gitignore, keep, PR reviews
-- [ ] IDE setup: extensions, formatters, linters, debugger
+- [x] Terminal: navigation, files, permissions, shell rc
+- [x] Package managers (system, language, local)
+- [x] Git: init/clone/commit/push/remotes
+- [x] Git hygiene: README, .gitignore, keep, PR reviews
+- [x] IDE setup: extensions, formatters, linters, debugger
 
 Phase 3: Web & Networking Fundamentals
 - [ ] HTML/CSS/JS basics; DOM
@@ -46,8 +46,8 @@ Phase 4: Databases
 - [ ] ORMs/migrations; data modeling/normalization
 
 Phase 5: Frameworks (JS)
-- [ ] NodeJS: runtime, modules, scripts, env, HTTP, async
-- [ ] Express.js: routing, middleware, parsing, errors
+- [x] NodeJS: runtime, modules, scripts, env, HTTP, async
+- [x] Express.js: routing, middleware, parsing, errors
 - [ ] Authentication implementation (JWT, sessions, OAuth integration)
 - [ ] React + Tailwind: components, hooks, forms, context, utilities, responsive
 - [ ] Vite: dev server, build, config basics
