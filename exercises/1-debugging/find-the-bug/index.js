@@ -4,10 +4,13 @@
 function sumEvenNumbers(numbers) {
   let sum = 0
   for (const n of numbers) {
+    console.log({ n, isEven: n % 2 === 0 })
     // BUG: This condition currently adds odd numbers instead of even ones
     // TODO: Use console.log to inspect n and the condition
     // TODO: Place a `debugger;` here and run with an inspector if you want to step through
-    if (n % 2) {
+    // debugger;
+    if (n % 2 === 0) {
+      console.log('adding', n)
       sum += n
     }
   }

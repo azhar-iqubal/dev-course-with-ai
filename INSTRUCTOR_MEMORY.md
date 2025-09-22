@@ -7,3 +7,9 @@
 - Progress: Created Express exercise with /health and /user; ran and validated with curl
 - Next: Choose JS fundamentals micro-exercises or expand Express with basic auth and error handling
 - Notes: Prefers concise steps and ready-to-run commands
+
+## 2025-09-22 Session
+- Progress: Completed debugging basics exercise (logs + condition fix) and validated PASS.
+- Blockers: None.
+- Next: Choose between JS fundamentals micro-exercises or expanding Express with basic auth and centralized error handling.
+- Notes: Keep using tiny runnable steps and commit after each.

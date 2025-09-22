@@ -7,7 +7,7 @@ Phase 0: Prerequisites
 Phase 1: Programming Fundamentals
 - [ ] JavaScript basics (syntax, types, control flow, functions, arrays)
 - [ ] DRY, SOLID principles
-- [ ] Debugging fundamentals (breakpoints, logs)
+- [x] Debugging fundamentals (breakpoints, logs)
 - [ ] Code reading and refactoring
 - [ ] DSA basics (arrays, maps, sets, complexity)
 - [ ] Testing basics (unit, integration, mocking)
