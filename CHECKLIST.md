@@ -30,7 +30,7 @@ Phase 3: Web & Networking Fundamentals
 - [ ] Basic file hosting and DNS
 - [ ] Access via local network (share services within LAN)
 - [ ] /etc/hosts file (custom hostname overrides for testing)
-- [ ] Basic HTTP server on any port (ports 22, 80, etc.)
+- [x] Basic HTTP server on any port (ports 22, 80, etc.)
 - [ ] HTTP: methods, status, headers
 - [ ] Authentication fundamentals (OAuth, JWT, cookies, sessions)
 - [ ] HTTPS/TLS; TLS handshake and cert chains
